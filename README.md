@@ -1,6 +1,6 @@
 # Kotlin API using KTOR, KMongo, and GSon
 
-This is a simple template for a lightweight api using kotlin, spark (web services), kmongo (db), gson (serialization)
+This is a simple template for a lightweight api using kotlin, ktor (web services), kmongo (db), gson (serialization)
 
 Prerequisites:
     
